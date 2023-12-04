@@ -56,3 +56,9 @@ If you would like to contribute to this project, please follow these guidelines:
 - Make your changes and commit them: git commit -m "Add new feature".
 - Push your changes to your fork: git push origin feature/new-feature.
 - Create a pull request to the master branch of the original repository.
+
+
+## Contact
+Sharjeel Akram
+- sharjeel.akram0200@gmail.com
+- https://www.linkedin.com/in/sharjeel-akram/
